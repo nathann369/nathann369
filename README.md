@@ -1,74 +1,93 @@
-<!--
-**nathann369/nathann369** is a special GitHub repo used to display your profile README.
-See: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/creating-a-profile-readme
--->
+<!-- Profile README for github.com/nathann369 -->
 
-# Hi, I’m Nathann 👋
+<p align="center">
+  <img src="https://i.imgur.com/fLqzXHZ.png" alt="Techy Banner" width="100%" />
+</p>
+
+# 👋 Hi, I’m Nathan George
+
+### 💻 Full-Stack Developer | 🛡️ Cybersecurity Enthusiast | 🌍 Tech Innovator
+
+---
 
 ## 🚀 About Me
-I’m **Nathann**, a passionate software developer based in Nigeria 🇳🇬. I love building elegant, scalable applications and contributing to open-source projects.  
-When I’m not coding, you’ll find me exploring new technologies, writing blog posts, or collaborating with like-minded developers.
+I’m **Nathan George**, a full-stack software developer with over **3 years of experience** building scalable web applications and APIs.  
+I’m currently expanding my skills in **cybersecurity**, focusing on practical defense, threat intelligence, and digital forensics.  
 
-- 💼 I’m currently working on **[insert current project or role]**  
-- 🧠 My main focus: **Full-Stack Development**, **APIs**, **Cloud & DevOps**  
-- 🌱 I’m learning: **[list current technologies you’re learning]**  
-- ✍️ I write about: **[your blog or topics you like]**  
-- 📫 How to reach me: [your email] / [twitter link] / [linkedin link]  
-- ⚡ Fun fact: [a short interesting personal fact e.g., "I once built a robot that can solve a Rubik’s cube"]
+My passion lies at the intersection of **development and security** — crafting systems that are not only powerful but resilient.  
 
----
-
-## 🛠️ Skills & Technologies
-Here are some of the tools, frameworks & languages I work with:
-
-| Category      | Technologies & Tools                                      |
-|--------------|-----------------------------------------------------------|
-| Programming  | JavaScript (ES6+), TypeScript, Python, Go                 |
-| Front-End    | React, Next.js, Vue.js                                    |
-| Back-End     | Node.js, Express, GraphQL, REST APIs                       |
-| Databases    | PostgreSQL, MongoDB, Redis                                 |
-| DevOps/Cloud | AWS (EC2, S3, Lambda), Docker, Kubernetes, CI/CD (GitHub Actions) |
-| Tools        | Git, Webpack, Vite, ESLint, Prettier                        |
+- 🔭 Currently exploring **cloud-based security systems** and **React/Django architectures**
+- 🧠 Learning **SIEM tools**, **Incident Response workflows**, and **DevSecOps**
+- ⚙️ Experienced in: **React**, **Django**, **Node.js**, **PostgreSQL**, **Docker**, **AWS**
+- 💬 Ask me about: **web app security**, **secure API design**, or **full-stack system structure**
+- 📫 Reach me: [nathanngeorge.dev@gmail.com](mailto:nathanngeorge.dev@gmail.com)
+- ⚡ Fun fact: I enjoy reverse-engineering mobile apps for fun!
 
 ---
 
-## 🔭 What I’m Working On
-- **Project A**: A full-stack web application that helps … [brief description].  
-- **Project B**: An open-source library / CLI tool for … [brief description].  
-- Coming soon: planning to dive deeper into **machine learning / serverless architectures / etc.**
+## 🧰 Tech Stack
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Frontend** | React, Next.js, Tailwind CSS, Redux |
+| **Backend** | Django, Node.js, Express, REST APIs |
+| **Databases** | PostgreSQL, MongoDB |
+| **Security** | Wireshark, Metasploit, Splunk, OSINT tools |
+| **DevOps & Cloud** | Docker, AWS (EC2, S3), GitHub Actions |
+| **Other Tools** | Git, Postman, Figma, Linux, Nginx |
 
 ---
 
 ## 🌟 Featured Projects
-Here are a few highlights from my GitHub:
 
-- [**Project-X**](link-to-repo) — A brief description of what it does and why it’s interesting.  
-- [**Project-Y**](link-to-repo) — A brief description of what it does and why it’s interesting.  
-- [**Project-Z**](link-to-repo) — A brief description of what it does and why it’s interesting.
-
-Feel free to explore my repos and drop me a star if you like what you see!
+### 🕵️‍♂️ **CyberSec Labs**
+A mini-platform simulating real-world **phishing and incident response exercises** for beginners.  
+Built with **Django**, **React**, and **Splunk** for monitoring student incidents in real time.  
+🔗 [View Repo](#)
 
 ---
 
-## 📫 Get In Touch
-I’m always open to chat about tech, collaborations, or just to say hi!  
-- LinkedIn: [Your LinkedIn URL]  
-- Twitter: [Your Twitter URL]  
-- Email: [your.email@example.com]
+### 🧩 **Glomus Global Services**
+A multi-domain platform exploring **Agro-Tech and Cybersecurity solutions**.  
+Developed full-stack with **React**, **Django REST Framework**, and **Dockerized deployment**.  
+🔗 [View Repo](#)
 
 ---
 
-## 📄 More About Me
-- I enjoy sharing knowledge: I write blog posts on **[your blog platform]** about development, best-practices, and new tools.  
-- Open to mentoring or pairing up — feel free to reach out if you’re keen to learn or collaborate.  
-- Outside of coding: I like **[hobby/interest – e.g., “playing football”, “photography”, “travelling”]**.
+### 🌐 **Portfolio + API**
+Personal developer portfolio integrated with a backend API to manage projects, contact messages, and analytics.  
+Built using **Next.js**, **FastAPI**, and **PostgreSQL**.  
+🔗 [View Repo](#)
 
 ---
 
-> “Code is like humour. When you have to explain it, it’s bad.” – Cory House
+### 🛠️ **Incident Response Dashboard**
+A visualization dashboard to simulate **incident detection and response workflows** using mock network data and alerts.  
+Built with **React**, **Chart.js**, and **Python Flask** backend.  
+🔗 [View Repo](#)
 
 ---
 
-**Thanks for stopping by!**  
-Feel free to explore the repositories and drop a ⭐ if you find anything useful.  
-Happy coding! 👨‍💻
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nathann369&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathann369&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🌍 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/nathanngeorge"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nathanngeorge.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/nathann369"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+> “Security is not a product, but a process.” – Bruce Schneier
+
+---
+
+<p align="center">✨ Thanks for visiting! Don’t forget to star your favorite projects! ✨</p>
