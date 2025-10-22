@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-I’m ** George**, a full-stack software developer with over **4 years of experience** building scalable applications and APIs.  
+I’m ** INNOVA**, a full-stack software developer with over **4 years of experience** building scalable applications and APIs.  
 I’m currently expanding my skills in **cybersecurity**, focusing on practical defense, threat intelligence, and digital forensics.  
 
 My passion lies at the intersection of **development and security** — crafting systems that are not only powerful but resilient.  
