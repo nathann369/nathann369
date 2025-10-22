@@ -4,14 +4,14 @@
   <img src="https://i.imgur.com/fLqzXHZ.png" alt="Techy Banner" width="100%" />
 </p>
 
-# 👋 Hi, I’m Nathan George
+# 👋 Hi, I’m INNOVA
 
 ### 💻 Full-Stack Developer | 🛡️ Cybersecurity Enthusiast | 🌍 Tech Innovator
 
 ---
 
 ## 🚀 About Me
-I’m **Nathan George**, a full-stack software developer with over **3 years of experience** building scalable web applications and APIs.  
+I’m ** George**, a full-stack software developer with over **4 years of experience** building scalable applications and APIs.  
 I’m currently expanding my skills in **cybersecurity**, focusing on practical defense, threat intelligence, and digital forensics.  
 
 My passion lies at the intersection of **development and security** — crafting systems that are not only powerful but resilient.  
