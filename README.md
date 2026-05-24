@@ -1,8 +1,10 @@
 <!-- Profile README for github.com/nathann369 -->
 
 <p align="center">
-  <img src="https://i.imgur.com/fLqzXHZ.png" alt="Techy Banner" width="100%" />
+  <img src="[https://i.imgur.com/fLqzXHZ.png](https://unsplash.com/photos/a-group-of-people-standing-next-to-each-other-HOrhCnQsxnQ)" alt="Techy Banner" width="100%" />
 </p>
+
+
 
 # 👋 Hi, I’m INNOVA
 
