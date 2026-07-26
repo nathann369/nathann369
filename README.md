@@ -3,7 +3,7 @@
 <!-- GitHub Profile README -->
 <!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Nathan George (INNOVA)</h1>
+<h1 align="center">Hi 👋, I'm George Nathan (INNOVA)</h1>
 
 <h3 align="center">
 AI Solutions Engineer • Full-Stack Developer • Automation Consultant
